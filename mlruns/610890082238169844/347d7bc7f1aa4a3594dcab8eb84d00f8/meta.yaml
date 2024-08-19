@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/610890082238169844/347d7bc7f1aa4a3594dcab8eb84d00f8/artifacts
+end_time: 1721228997135
+entry_point_name: ''
+experiment_id: '610890082238169844'
+lifecycle_stage: active
+run_id: 347d7bc7f1aa4a3594dcab8eb84d00f8
+run_name: agreeable-frog-763
+run_uuid: 347d7bc7f1aa4a3594dcab8eb84d00f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721228988324
+status: 3
+tags: []
+user_id: fgf_7

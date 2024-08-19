@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/695910686455587992/f13f6a06367948d0a5ade084729f14b9/artifacts
+end_time: 1721216300036
+entry_point_name: ''
+experiment_id: '695910686455587992'
+lifecycle_stage: active
+run_id: f13f6a06367948d0a5ade084729f14b9
+run_name: invincible-stoat-724
+run_uuid: f13f6a06367948d0a5ade084729f14b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721216290805
+status: 3
+tags: []
+user_id: fgf_7

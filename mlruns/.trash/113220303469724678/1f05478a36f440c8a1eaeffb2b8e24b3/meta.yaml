@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/113220303469724678/1f05478a36f440c8a1eaeffb2b8e24b3/artifacts
+deleted_time: 1721228687272
+end_time: 1721222394762
+entry_point_name: ''
+experiment_id: '113220303469724678'
+lifecycle_stage: deleted
+run_id: 1f05478a36f440c8a1eaeffb2b8e24b3
+run_name: bouncy-sloth-882
+run_uuid: 1f05478a36f440c8a1eaeffb2b8e24b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721222389538
+status: 3
+tags: []
+user_id: fgf_7

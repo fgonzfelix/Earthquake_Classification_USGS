@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/152128615171765574/bb3ff88bf6bc4e91bbb6ead3c9864922/artifacts
+end_time: 1721214734555
+entry_point_name: ''
+experiment_id: '152128615171765574'
+lifecycle_stage: active
+run_id: bb3ff88bf6bc4e91bbb6ead3c9864922
+run_name: enthused-cod-41
+run_uuid: bb3ff88bf6bc4e91bbb6ead3c9864922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721214724349
+status: 3
+tags: []
+user_id: fgf_7

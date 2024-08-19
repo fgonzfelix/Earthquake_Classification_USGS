@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/2798caa53ef842a997656ef96ce5de00/artifacts
+deleted_time: 1721214465658
+end_time: 1721210196669
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: 2798caa53ef842a997656ef96ce5de00
+run_name: powerful-penguin-737
+run_uuid: 2798caa53ef842a997656ef96ce5de00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210189726
+status: 3
+tags: []
+user_id: fgf_7

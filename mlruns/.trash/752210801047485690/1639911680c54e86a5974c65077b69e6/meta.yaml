@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/1639911680c54e86a5974c65077b69e6/artifacts
+deleted_time: 1721214465658
+end_time: 1721211123253
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: 1639911680c54e86a5974c65077b69e6
+run_name: judicious-goat-592
+run_uuid: 1639911680c54e86a5974c65077b69e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721211117503
+status: 3
+tags: []
+user_id: fgf_7

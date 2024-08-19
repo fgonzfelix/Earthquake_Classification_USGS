@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/166889731319720033/672119d79aac41249120da4b3ecd7757/artifacts
+deleted_time: 1721215795094
+end_time: 1721210609481
+entry_point_name: ''
+experiment_id: '166889731319720033'
+lifecycle_stage: deleted
+run_id: 672119d79aac41249120da4b3ecd7757
+run_name: rebellious-lamb-338
+run_uuid: 672119d79aac41249120da4b3ecd7757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210604351
+status: 3
+tags: []
+user_id: fgf_7

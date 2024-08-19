@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/799aabec5d60434194f97a97d67f4a1b/artifacts
+deleted_time: 1721214465658
+end_time: 1721210569191
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: 799aabec5d60434194f97a97d67f4a1b
+run_name: funny-fawn-255
+run_uuid: 799aabec5d60434194f97a97d67f4a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210564448
+status: 4
+tags: []
+user_id: fgf_7

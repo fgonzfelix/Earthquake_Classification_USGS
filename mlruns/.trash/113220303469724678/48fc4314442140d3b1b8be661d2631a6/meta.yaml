@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/113220303469724678/48fc4314442140d3b1b8be661d2631a6/artifacts
+deleted_time: 1721228687272
+end_time: 1721222421245
+entry_point_name: ''
+experiment_id: '113220303469724678'
+lifecycle_stage: deleted
+run_id: 48fc4314442140d3b1b8be661d2631a6
+run_name: nimble-cod-4
+run_uuid: 48fc4314442140d3b1b8be661d2631a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721222415813
+status: 3
+tags: []
+user_id: fgf_7

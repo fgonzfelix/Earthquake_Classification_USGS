@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/695910686455587992/1b706652b405469185cd78a7e19fb08c/artifacts
+end_time: 1721216207419
+entry_point_name: ''
+experiment_id: '695910686455587992'
+lifecycle_stage: active
+run_id: 1b706652b405469185cd78a7e19fb08c
+run_name: fortunate-owl-278
+run_uuid: 1b706652b405469185cd78a7e19fb08c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721216201132
+status: 3
+tags: []
+user_id: fgf_7

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/695910686455587992/23cef837a92b433691824bbefde4a286/artifacts
+end_time: 1721216152564
+entry_point_name: ''
+experiment_id: '695910686455587992'
+lifecycle_stage: active
+run_id: 23cef837a92b433691824bbefde4a286
+run_name: crawling-hound-879
+run_uuid: 23cef837a92b433691824bbefde4a286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721216147237
+status: 3
+tags: []
+user_id: fgf_7

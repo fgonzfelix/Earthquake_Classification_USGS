@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/166889731319720033/0f60eac2b5c242e4a535d35065d9d63e/artifacts
+deleted_time: 1721215795094
+end_time: 1721210664519
+entry_point_name: ''
+experiment_id: '166889731319720033'
+lifecycle_stage: deleted
+run_id: 0f60eac2b5c242e4a535d35065d9d63e
+run_name: gentle-zebra-221
+run_uuid: 0f60eac2b5c242e4a535d35065d9d63e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210658674
+status: 3
+tags: []
+user_id: fgf_7

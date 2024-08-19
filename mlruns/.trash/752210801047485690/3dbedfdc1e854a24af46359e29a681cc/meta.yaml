@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/3dbedfdc1e854a24af46359e29a681cc/artifacts
+deleted_time: 1721214465658
+end_time: 1721211112201
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: 3dbedfdc1e854a24af46359e29a681cc
+run_name: crawling-panda-51
+run_uuid: 3dbedfdc1e854a24af46359e29a681cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721211106741
+status: 3
+tags: []
+user_id: fgf_7

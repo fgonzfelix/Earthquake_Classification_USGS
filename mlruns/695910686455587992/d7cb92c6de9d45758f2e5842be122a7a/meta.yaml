@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/695910686455587992/d7cb92c6de9d45758f2e5842be122a7a/artifacts
+end_time: 1721216281363
+entry_point_name: ''
+experiment_id: '695910686455587992'
+lifecycle_stage: active
+run_id: d7cb92c6de9d45758f2e5842be122a7a
+run_name: redolent-donkey-144
+run_uuid: d7cb92c6de9d45758f2e5842be122a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721216272539
+status: 3
+tags: []
+user_id: fgf_7

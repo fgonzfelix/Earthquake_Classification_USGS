@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/113220303469724678/c5e2435ff25543b6be50dbc9cdc67c89/artifacts
+deleted_time: 1721228687272
+end_time: 1721222404935
+entry_point_name: ''
+experiment_id: '113220303469724678'
+lifecycle_stage: deleted
+run_id: c5e2435ff25543b6be50dbc9cdc67c89
+run_name: calm-duck-534
+run_uuid: c5e2435ff25543b6be50dbc9cdc67c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721222399946
+status: 3
+tags: []
+user_id: fgf_7

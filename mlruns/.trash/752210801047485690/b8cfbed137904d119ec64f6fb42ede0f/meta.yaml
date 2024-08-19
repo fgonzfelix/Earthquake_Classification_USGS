@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/b8cfbed137904d119ec64f6fb42ede0f/artifacts
+deleted_time: 1721214465658
+end_time: 1721210130561
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: b8cfbed137904d119ec64f6fb42ede0f
+run_name: wistful-wren-902
+run_uuid: b8cfbed137904d119ec64f6fb42ede0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210118672
+status: 3
+tags: []
+user_id: fgf_7

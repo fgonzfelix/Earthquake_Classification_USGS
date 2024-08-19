@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/113220303469724678/799a696f946840a7831743d2f144fd0a/artifacts
+deleted_time: 1721228687272
+end_time: 1721217466970
+entry_point_name: ''
+experiment_id: '113220303469724678'
+lifecycle_stage: deleted
+run_id: 799a696f946840a7831743d2f144fd0a
+run_name: shivering-stoat-237
+run_uuid: 799a696f946840a7831743d2f144fd0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721217461908
+status: 3
+tags: []
+user_id: fgf_7

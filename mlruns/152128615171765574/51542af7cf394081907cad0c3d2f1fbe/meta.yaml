@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/152128615171765574/51542af7cf394081907cad0c3d2f1fbe/artifacts
+end_time: 1721214769958
+entry_point_name: ''
+experiment_id: '152128615171765574'
+lifecycle_stage: active
+run_id: 51542af7cf394081907cad0c3d2f1fbe
+run_name: resilient-bug-295
+run_uuid: 51542af7cf394081907cad0c3d2f1fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721214764417
+status: 3
+tags: []
+user_id: fgf_7

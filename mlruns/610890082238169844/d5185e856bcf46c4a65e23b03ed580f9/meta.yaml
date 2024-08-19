@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/610890082238169844/d5185e856bcf46c4a65e23b03ed580f9/artifacts
+end_time: 1721229005899
+entry_point_name: ''
+experiment_id: '610890082238169844'
+lifecycle_stage: active
+run_id: d5185e856bcf46c4a65e23b03ed580f9
+run_name: selective-ant-577
+run_uuid: d5185e856bcf46c4a65e23b03ed580f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721228997151
+status: 3
+tags: []
+user_id: fgf_7

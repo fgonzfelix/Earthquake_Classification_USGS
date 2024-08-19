@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/610890082238169844/f37103e26a76456fa8f35e6b4bc4f18b/artifacts
+end_time: 1721228887727
+entry_point_name: ''
+experiment_id: '610890082238169844'
+lifecycle_stage: active
+run_id: f37103e26a76456fa8f35e6b4bc4f18b
+run_name: luminous-penguin-469
+run_uuid: f37103e26a76456fa8f35e6b4bc4f18b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721228880072
+status: 3
+tags: []
+user_id: fgf_7

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/152128615171765574/164983ef1d1a4447baa4db01bf3d6f93/artifacts
+end_time: 1721214810114
+entry_point_name: ''
+experiment_id: '152128615171765574'
+lifecycle_stage: active
+run_id: 164983ef1d1a4447baa4db01bf3d6f93
+run_name: efficient-duck-815
+run_uuid: 164983ef1d1a4447baa4db01bf3d6f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721214803954
+status: 3
+tags: []
+user_id: fgf_7

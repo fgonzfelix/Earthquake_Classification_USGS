@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/610890082238169844/36d02c34789e4b65a6e6c1e29fa9ba7a/artifacts
+end_time: 1721228911160
+entry_point_name: ''
+experiment_id: '610890082238169844'
+lifecycle_stage: active
+run_id: 36d02c34789e4b65a6e6c1e29fa9ba7a
+run_name: awesome-crab-296
+run_uuid: 36d02c34789e4b65a6e6c1e29fa9ba7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721228902676
+status: 3
+tags: []
+user_id: fgf_7

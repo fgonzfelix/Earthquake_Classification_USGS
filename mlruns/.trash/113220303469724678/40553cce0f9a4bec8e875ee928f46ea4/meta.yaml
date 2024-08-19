@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/113220303469724678/40553cce0f9a4bec8e875ee928f46ea4/artifacts
+deleted_time: 1721228687272
+end_time: 1721217554240
+entry_point_name: ''
+experiment_id: '113220303469724678'
+lifecycle_stage: deleted
+run_id: 40553cce0f9a4bec8e875ee928f46ea4
+run_name: dapper-chimp-505
+run_uuid: 40553cce0f9a4bec8e875ee928f46ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721217547083
+status: 4
+tags: []
+user_id: fgf_7

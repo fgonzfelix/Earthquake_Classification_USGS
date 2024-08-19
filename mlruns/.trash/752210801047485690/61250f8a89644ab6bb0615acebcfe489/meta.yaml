@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/61250f8a89644ab6bb0615acebcfe489/artifacts
+deleted_time: 1721214465658
+end_time: 1721211129058
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: 61250f8a89644ab6bb0615acebcfe489
+run_name: skittish-wren-545
+run_uuid: 61250f8a89644ab6bb0615acebcfe489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721211123266
+status: 3
+tags: []
+user_id: fgf_7

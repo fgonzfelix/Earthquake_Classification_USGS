@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/113220303469724678/3e7f2b08314e4d8c929959493b91dbdf/artifacts
+deleted_time: 1721228687272
+end_time: 1721217452004
+entry_point_name: ''
+experiment_id: '113220303469724678'
+lifecycle_stage: deleted
+run_id: 3e7f2b08314e4d8c929959493b91dbdf
+run_name: languid-bee-420
+run_uuid: 3e7f2b08314e4d8c929959493b91dbdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721217446990
+status: 3
+tags: []
+user_id: fgf_7

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/b26ac7e9612c460b84f62c8b10bb519d/artifacts
+deleted_time: 1721214465658
+end_time: 1721211162304
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: b26ac7e9612c460b84f62c8b10bb519d
+run_name: sincere-mare-245
+run_uuid: b26ac7e9612c460b84f62c8b10bb519d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721211155271
+status: 3
+tags: []
+user_id: fgf_7

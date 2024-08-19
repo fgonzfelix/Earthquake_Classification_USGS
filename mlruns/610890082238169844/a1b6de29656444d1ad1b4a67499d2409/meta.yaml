@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/610890082238169844/a1b6de29656444d1ad1b4a67499d2409/artifacts
+end_time: 1721229035168
+entry_point_name: ''
+experiment_id: '610890082238169844'
+lifecycle_stage: active
+run_id: a1b6de29656444d1ad1b4a67499d2409
+run_name: sassy-grouse-472
+run_uuid: a1b6de29656444d1ad1b4a67499d2409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721229025443
+status: 3
+tags: []
+user_id: fgf_7

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/610890082238169844/c8e4c6b5620048f79bb1783730b79675/artifacts
+end_time: 1721228988308
+entry_point_name: ''
+experiment_id: '610890082238169844'
+lifecycle_stage: active
+run_id: c8e4c6b5620048f79bb1783730b79675
+run_name: bright-turtle-717
+run_uuid: c8e4c6b5620048f79bb1783730b79675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721228979372
+status: 3
+tags: []
+user_id: fgf_7

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/610890082238169844/9e2485a5fd7940799b72734ca9a6903c/artifacts
+end_time: 1721229015834
+entry_point_name: ''
+experiment_id: '610890082238169844'
+lifecycle_stage: active
+run_id: 9e2485a5fd7940799b72734ca9a6903c
+run_name: colorful-snipe-26
+run_uuid: 9e2485a5fd7940799b72734ca9a6903c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721229005914
+status: 3
+tags: []
+user_id: fgf_7

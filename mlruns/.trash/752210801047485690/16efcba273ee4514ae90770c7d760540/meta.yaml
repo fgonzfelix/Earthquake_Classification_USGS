@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/16efcba273ee4514ae90770c7d760540/artifacts
+deleted_time: 1721214465658
+end_time: 1721210230086
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: 16efcba273ee4514ae90770c7d760540
+run_name: luxuriant-mule-387
+run_uuid: 16efcba273ee4514ae90770c7d760540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210223528
+status: 3
+tags: []
+user_id: fgf_7

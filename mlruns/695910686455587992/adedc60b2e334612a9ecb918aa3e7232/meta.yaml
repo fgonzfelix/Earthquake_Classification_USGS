@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/695910686455587992/adedc60b2e334612a9ecb918aa3e7232/artifacts
+end_time: 1721216147219
+entry_point_name: ''
+experiment_id: '695910686455587992'
+lifecycle_stage: active
+run_id: adedc60b2e334612a9ecb918aa3e7232
+run_name: redolent-shrew-350
+run_uuid: adedc60b2e334612a9ecb918aa3e7232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721216142520
+status: 3
+tags: []
+user_id: fgf_7

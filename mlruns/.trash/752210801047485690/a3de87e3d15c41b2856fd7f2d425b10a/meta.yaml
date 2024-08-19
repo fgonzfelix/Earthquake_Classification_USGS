@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/a3de87e3d15c41b2856fd7f2d425b10a/artifacts
+deleted_time: 1721214465658
+end_time: 1721211090519
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: a3de87e3d15c41b2856fd7f2d425b10a
+run_name: tasteful-bird-770
+run_uuid: a3de87e3d15c41b2856fd7f2d425b10a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721211085265
+status: 3
+tags: []
+user_id: fgf_7

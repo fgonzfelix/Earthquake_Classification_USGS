@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/c5028524276f4500bcb13f346d80e6ad/artifacts
+deleted_time: 1721214465658
+end_time: 1721210203276
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: c5028524276f4500bcb13f346d80e6ad
+run_name: powerful-yak-332
+run_uuid: c5028524276f4500bcb13f346d80e6ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210196682
+status: 3
+tags: []
+user_id: fgf_7

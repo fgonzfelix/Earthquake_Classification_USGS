@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/95b93d76086445b78c9388d478056d34/artifacts
+deleted_time: 1721214465658
+end_time: 1721211095942
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: 95b93d76086445b78c9388d478056d34
+run_name: worried-boar-619
+run_uuid: 95b93d76086445b78c9388d478056d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721211090532
+status: 3
+tags: []
+user_id: fgf_7

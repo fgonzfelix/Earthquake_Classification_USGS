@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/752210801047485690/9b755181aaaf49aca8017f2ce080a45b/artifacts
+deleted_time: 1721214465658
+end_time: 1721210280577
+entry_point_name: ''
+experiment_id: '752210801047485690'
+lifecycle_stage: deleted
+run_id: 9b755181aaaf49aca8017f2ce080a45b
+run_name: resilient-crow-818
+run_uuid: 9b755181aaaf49aca8017f2ce080a45b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210271364
+status: 3
+tags: []
+user_id: fgf_7

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/J/Jupyter%20Notebook%20work-space/Earthquake%20Forecasting%20MLflow/mlruns/113220303469724678/b75dfedfc8534449b27c614f86dddb9a/artifacts
+deleted_time: 1721228687272
+end_time: 1721222379460
+entry_point_name: ''
+experiment_id: '113220303469724678'
+lifecycle_stage: deleted
+run_id: b75dfedfc8534449b27c614f86dddb9a
+run_name: judicious-mole-942
+run_uuid: b75dfedfc8534449b27c614f86dddb9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721222374446
+status: 3
+tags: []
+user_id: fgf_7
